@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Encabezado{
+    background-color: white;
+    font-family: Lato Light;
+    font-size: 20px;
+    padding-top:20px;
+    padding-left:100px;
+    height: 100px;
+}
+.h3{
+    font-family: Fraunces;
+    font-size: 22px;
+}
+.bienvenida{
+    background-color: white;
+    font-family: Lato Light;
+    font-size: 2vw;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.IS:hover{
+    background-color:white;
+    color: black;
+}
+.IS{
+    border: 1px solid black;
+    background-color:#C0CBED;
+    font-family: Lucida Handwriting;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 50px;
+    
+}
+.sobre{
+    background-color:#C0CBED;
+    font-family: Garamond;
+    height: 500px;
+    text-align: center;
+    font-size: 1.5vw;
+}
+.h1{
+    font-family: Georgia;
+    font-size: 2vw;
+}
+.jiji{
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.arriba{
+    background-color: white;
+    font-family: Lato Light;
+    font-size: 20px;
+    padding-top:15px;
+    padding-left:100px;
+    padding-right: 100px;
+    height: 100px;
+}
+.info{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 200px;
+}
+.paleta{
+    background-color:#C0CBED;
+    font-family: Garamond;
+    font-size: 2vw;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left:100px;
+    padding-right: 100px;
+}
+.tapa{
+    border: #000000;
+    background-color: #000000;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-family: Courier New;
+}
+.tapa:hover{
+    border:1px solid black;
+    background-color: white;
+    height: 50px;
+    width: 200px;
+    color: black;
+    font-family: Courier New;
+    transition-duration: 0.4s;
+}
+
+.chicle{
+    border: #000000;
+    background-color: #000000;
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-family: Courier New;
+}
+
+.chicle:hover{
+    border:1px solid black;
+    background-color: white;
+    height: 50px;
+    width: 200px;
+    color: black;
+    font-family: Courier New;
+    transition-duration: 0.4s;
+}
+.Registro{
+    padding-left: 400px;
+    padding-top: 80px;
+}
+.tener{
+    border: 1px solid #919191;
+    height: 50px;
+    width: 300px;
+    background-color:transparent;
+}
+.botella{
+    border: 1px solid #919191;
+    height: 50px;
+    width: 300px;
+    background-color:transparent;
+}
